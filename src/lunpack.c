@@ -208,7 +208,7 @@ int main(int argc, char *argv[]) {
         strcat(outputfolder, "-music");
     }
     
-    if(argc == 3 && (strcmp(argv[2], "-d") == 0)) { // -d option specified, turn on decompression
+    if(argc >= 3 && (strcmp(argv[2], "-d") == 0)) { // -d option specified, turn on decompression
         printf("-d switch given, decompressing files with LLZSS.exe.\n");
         using_decompressor = 1;
     }

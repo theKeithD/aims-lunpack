@@ -1,3 +1,6 @@
+SUPERCEDED BY [thmj3g-tools](https://github.com/theKeithD/thmj3g-tools)
+==========================
+
 lunpack
 =======
 Unpacker utility for games created using the [AIMS 2D game engine](http://aims.dna-softwares.com/?page_id=14 "(Japanese)") by D.N.A.Softwares.
